@@ -1,6 +1,10 @@
 # MISSION-MOON_PowerBi
 # 🚀 Analyzing Moon Missions from 1958 to 2023 🌕
 
+
+![image](https://github.com/nikitagund17/MISSION-MOON_PowerBi/assets/114844482/a82b3618-0547-4961-87aa-937a752df4f0)
+
+
 📊 Explore the fascinating world of moon missions with my latest Power BI project! 🌌
 
 In this interactive report, I've dissected over six decades of lunar exploration to provide you with insights on:
