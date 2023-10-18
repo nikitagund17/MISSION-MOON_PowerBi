@@ -2,7 +2,7 @@
 # 🚀 Analyzing Moon Missions from 1958 to 2023 🌕
 
 
-![image](https://github.com/nikitagund17/MISSION-MOON_PowerBi/assets/114844482/a82b3618-0547-4961-87aa-937a752df4f0)
+![image](https://github.com/nikitagund17/MISSION-MOON_PowerBi/assets/114844482/3153acf5-237a-44f5-a9c6-9357a99b3344)
 
 
 📊 Explore the fascinating world of moon missions with my latest Power BI project! 🌌
